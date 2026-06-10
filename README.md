@@ -7,7 +7,7 @@ algum dia, esse projeto também contem apenas.
 
 .CSS
 
-Talvez algum dia insira Java nele mas não pretendo.
+Talvez algum dia insira JavaScript nele mas não pretendo.
 
 </p>
 
