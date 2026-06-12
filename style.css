@@ -94,7 +94,7 @@ header{
 }
 
 @media screen and (max-width: 908px) {
-    .container-left{
+    .conteiner-left{
         width: 100%;
         height: 50%;
         padding: 0;
@@ -112,6 +112,7 @@ header{
     img{
         position: static;
         max-width: 90%;
+        height: auto;  
     }
 
     header{
@@ -131,7 +132,7 @@ header{
         width: auto;
         text-align: center; 
         font-size: 14px;
-        font-weight: 24px;
+        font-weight: 400;
     }
 
     button {
